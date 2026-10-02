@@ -4,7 +4,7 @@
 
 - **Store link:** https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf
 - **Genre:** Endless runner
-- **I played:** [30 mins]
+- **I played:** [17 mins]
 
 <p>
 <img src="Docs/game1/1.png" width="240">
@@ -36,7 +36,7 @@
 
 - **Store link:** https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo
 - **Genre:** Location-based collecting game
-- **I played:** [X minutes, and how far you got]
+- **I played:** [15 mins]
 
 <p>
 <img src="Docs/game2/1.png" width="240">
