@@ -7,9 +7,7 @@
 - **I played:** [17 mins]
 
 <p>
-<img src="Docs/game1/1.png" width="240">
-<img src="Docs/game1/2.png" width="240">
-<img src="Docs/game1/3.png" width="240">
+<img src="C:\Users\User\CS464-A1-24088\Assets\Docs\game_1.png" width="240">
 </p>
 
 1. [M1, M3] · Running down the tracks, swiping between the three lanes and following a line of coins.
