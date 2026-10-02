@@ -6,9 +6,6 @@
 - **Genre:** Endless runner
 - **I played:** [17 mins]
 
-<p>
-<img src="C:\Users\User\CS464-A1-24088\Assets\Docs\game_1.png" width="240">
-</p>
 
 1. [M1, M3] · Running down the tracks, swiping between the three lanes and following a line of coins.
 2. [M2, M4] · The hoverboard switched on, so the next crash will break it instead of ending the run.
@@ -36,12 +33,6 @@
 - **Genre:** Location-based collecting game
 - **I played:** [15 mins]
 
-<p>
-<img src="Docs/game2/1.png" width="240">
-<img src="Docs/game2/2.png" width="240">
-<img src="Docs/game2/3.png" width="240">
-</p>
-
 1. [M1] · The catch screen, throwing a ball at a Pokémon found on the map.
 2. [M3] · A PokéStop spun to collect free items.
 3. [M2] · The eggs screen with the walking distance left before each egg hatches.
@@ -66,8 +57,8 @@
 
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.png" width="320"> | The basics: spawn room, a narrow corridor, a 3 m jump gap, then an open yard with the goal. | Landmark: a tall orange tower behind the goal can be seen from the yard. |
-| Level02 | <img src="Docs/levels/level02.png" width="320"> | A split route: a left lane with low cover, and a right lane with a side room holding a reward. | Breadcrumbs: yellow markers lead along the left lane to the exit. |
-| Level03 | <img src="Docs/levels/level03.png" width="320"> | Height: a ramp up to a platform, a narrow 1.5 m bridge, and a second platform with the goal. | Leading lines: yellow markers run up the ramp and along the bridge. |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | A pinch before a reveal: a 1.5 m corridor opens into a big arena with low cover to weave through. | Pinch and release: the tight corridor makes the open arena feel like a reveal, with a tower behind the goal. |
-| Level05 | <img src="Docs/levels/level05.png" width="320"> | Combines earlier ideas: a 2.5 m jump gap, then a split between a low cover lane and a raised ramp walkway. | Light and contrast: a dark scene with a bright green goal and a green light on it. |
+| Level01 | The basics: spawn room, a narrow corridor, a 3 m jump gap, then an open yard with the goal. | Landmark: a tall orange tower behind the goal can be seen from the yard. |
+| Level02 | A split route: a left lane with low cover, and a right lane with a side room holding a reward. | Breadcrumbs: yellow markers lead along the left lane to the exit. |
+| Level03 | Height: a ramp up to a platform, a narrow 1.5 m bridge, and a second platform with the goal. | Leading lines: yellow markers run up the ramp and along the bridge. |
+| Level04 | A pinch before a reveal: a 1.5 m corridor opens into a big arena with low cover to weave through. | Pinch and release: the tight corridor makes the open arena feel like a reveal, with a tower behind the goal. |
+| Level05 | Combines earlier ideas: a 2.5 m jump gap, then a split between a low cover lane and a raised ramp walkway. | Light and contrast: a dark scene with a bright green goal and a green light on it. |
